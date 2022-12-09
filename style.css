@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.eu {
+ border-radius: 50%;
+ width: 50px;
+ height: 50px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    height: 70px;
+    background-color: black;
+    border-bottom: 1px solid white;
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    color: white;
+}
+h1 {
+    margin: 100px 0;
+    font-size: 70px;
+    text-align: center;
+    color: white;
+}
+p {
+    text-align: center;
+    color: white;
+}
+body {
+    background-color: black;
+}
+.ela {
+text-align: center; 
+padding-bottom: 10px;
+}
+.elaimg {
+    max-width: 700px;
+max-height: 250px;
+height: auto;
+width: auto;
+}
+.euimg {
+    text-align: center;
+    padding: 10px 0;
+}
+.euimg2 {
+    max-width: 700px;
+    max-height: 250px;
+    height: auto;
+    width: auto;
+}
+.med {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.medimg {
+    max-width: 700px;
+    max-height: 250px;
+    height: auto;
+    width: auto;
+}
+.amizade {
+    text-align: center;
+    padding: 10px 0;
+}
+.amizadeimg {
+    max-width: 700px;
+    max-height: 250px;
+    height: auto;
+    width: auto;
+}
+.reencontro {
+    text-align: center;
+   padding-top: 20px;
+}
+.sozinhoimg {
+    max-width: 700px;
+    max-height: 250px;
+    height: auto;
+    width: auto;
+}
+.deusajuda {
+    text-align: center;
+    padding: 10px 0;
+}
+.deusajudaimg {
+    max-width: 700px;
+    max-height: 250px;
+    height: auto;
+    width: auto;
+}
+.possuido {
+    text-align: center;
+}
+.possuidoimg {
+    max-width: 700px;
+    max-height: 250px;
+    height: auto;
+    width: auto;
+    padding: 20px 0;
+}
+.ultima {
+    padding-bottom: 50px;
+}
+h6 {
+    color: white;
+    text-align: center;
+padding-bottom: 10px;
+}
+a {
+text-decoration: none;
+color: white;
+}
+::-webkit-scrollbar {
+    width: 1px;
+}
+::-webkit-scrollbar-thumb {
+    width: 1px;
+background-color: white;
+
+}
+h2 {
+    margin: 70px 30px 0 0;
+    margin-left: 30px;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+h3 {
+    margin: 70px 30px 0 0;
+    margin-left: 30px;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+.gab {
+    border-bottom: 1px solid white;
+}
+.xpz {
+    padding-top: 70px;
+}
